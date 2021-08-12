@@ -52,7 +52,7 @@ a:link, a:visited {
 }
 
 a:hover {
-    color: #52a9ff;
+    color: #b39e00;
 }
 
 main {
@@ -212,7 +212,7 @@ img {
 }
 
 .card, .image-card, .youtube-card {
-    padding: 5px 20px;
+    padding: 10px 20px;
     width: 100vw;
 }
 
