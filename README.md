@@ -1,4 +1,4 @@
-# [Material Makerspace](https://latxh.github.io/MaterialMakerspace/) - MakerSpace Website
+# [Material Makerspace](https://latxh.github.io/Material-Makerspace/) - MakerSpace Website
 
 Digital Innovation Final Project
 
