@@ -2,4 +2,4 @@
 
 Digital Innovation Final Project
 
-Visit the project at [https://latxh.github.io/MaterialMakerspace/](https://latxh.github.io/MaterialMakerspace/)
+Visit the project at [https://latxh.github.io/MaterialMakerspace/](https://latxh.github.io/Material-Makerspace/)
